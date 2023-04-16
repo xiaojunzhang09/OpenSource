@@ -1,0 +1,6 @@
+Premain-Class: com.ibeetl.code.ch09.tracer.TracerAgent
+Can-Retransform-Classes: true
+Manifest-Version: 1.0
+
+
+

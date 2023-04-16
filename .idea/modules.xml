@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/OpenSource.iml" filepath="$PROJECT_DIR$/.idea/OpenSource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../mapstruct/mapstruct-examples/mapstruct-spi-accessor-naming/accessornaming-parent.iml" filepath="$PROJECT_DIR$/../../mapstruct/mapstruct-examples/mapstruct-spi-accessor-naming/accessornaming-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../mapstruct/mapstruct-examples/mapstruct-spi-accessor-naming/spi-impl/accessornaming-spi-impl.iml" filepath="$PROJECT_DIR$/../../mapstruct/mapstruct-examples/mapstruct-spi-accessor-naming/spi-impl/accessornaming-spi-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../mapstruct/mapstruct-examples/mapstruct-spi-accessor-naming/usage/accessornaming-usage.iml" filepath="$PROJECT_DIR$/../../mapstruct/mapstruct-examples/mapstruct-spi-accessor-naming/usage/accessornaming-usage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-performance/ch09/agent/agent.iml" filepath="$PROJECT_DIR$/java-performance/ch09/agent/agent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-performance/ch09/asm/asm.iml" filepath="$PROJECT_DIR$/java-performance/ch09/asm/asm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-performance/ch01/ch01.iml" filepath="$PROJECT_DIR$/java-performance/ch01/ch01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-performance/ch02/ch02.iml" filepath="$PROJECT_DIR$/java-performance/ch02/ch02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-performance/ch03/ch03.iml" filepath="$PROJECT_DIR$/java-performance/ch03/ch03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-performance/ch04/ch04.iml" filepath="$PROJECT_DIR$/java-performance/ch04/ch04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-performance/ch05/ch05.iml" filepath="$PROJECT_DIR$/java-performance/ch05/ch05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-performance/ch06/ch06.iml" filepath="$PROJECT_DIR$/java-performance/ch06/ch06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-performance/ch07/ch07.iml" filepath="$PROJECT_DIR$/java-performance/ch07/ch07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-performance/ch09/ch09.iml" filepath="$PROJECT_DIR$/java-performance/ch09/ch09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-performance/jsr269/hello-examples/hello-examples.iml" filepath="$PROJECT_DIR$/java-performance/jsr269/hello-examples/hello-examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-performance/jsr269/hello-processor/hello-processor.iml" filepath="$PROJECT_DIR$/java-performance/jsr269/hello-processor/hello-processor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-performance/jsr269/jsr269.iml" filepath="$PROJECT_DIR$/java-performance/jsr269/jsr269.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../mapstruct/mapstruct/core/mapstruct.iml" filepath="$PROJECT_DIR$/../../mapstruct/mapstruct/core/mapstruct.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../mapstruct/mapstruct/mapstruct-aggregator.iml" filepath="$PROJECT_DIR$/../../mapstruct/mapstruct/mapstruct-aggregator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../mapstruct/mapstruct/build-config/mapstruct-build-config.iml" filepath="$PROJECT_DIR$/../../mapstruct/mapstruct/build-config/mapstruct-build-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../mapstruct/mapstruct-examples/mapstruct-clone/mapstruct-deep-clone.iml" filepath="$PROJECT_DIR$/../../mapstruct/mapstruct-examples/mapstruct-clone/mapstruct-deep-clone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../mapstruct/mapstruct/distribution/mapstruct-distribution.iml" filepath="$PROJECT_DIR$/../../mapstruct/mapstruct/distribution/mapstruct-distribution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../mapstruct/mapstruct/documentation/mapstruct-documentation.iml" filepath="$PROJECT_DIR$/../../mapstruct/mapstruct/documentation/mapstruct-documentation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../mapstruct/mapstruct-examples/mapstruct-examples.iml" filepath="$PROJECT_DIR$/../../mapstruct/mapstruct-examples/mapstruct-examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../mapstruct/mapstruct-examples/mapstruct-mapping-with-cycles/mapstruct-examples-cycles-mapping.iml" filepath="$PROJECT_DIR$/../../mapstruct/mapstruct-examples/mapstruct-mapping-with-cycles/mapstruct-examples-cycles-mapping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../mapstruct/mapstruct-examples/mapstruct-field-mapping/mapstruct-examples-field-mappings.iml" filepath="$PROJECT_DIR$/../../mapstruct/mapstruct-examples/mapstruct-field-mapping/mapstruct-examples-field-mappings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../mapstruct/mapstruct-examples/mapstruct-mapping-from-map/mapstruct-examples-from-map.iml" filepath="$PROJECT_DIR$/../../mapstruct/mapstruct-examples/mapstruct-mapping-from-map/mapstruct-examples-from-map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../mapstruct/mapstruct-examples/mapstruct-iterable-to-non-iterable/mapstruct-examples-iterable-non-iterable.iml" filepath="$PROJECT_DIR$/../../mapstruct/mapstruct-examples/mapstruct-iterable-to-non-iterable/mapstruct-examples-iterable-non-iterable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../mapstruct/mapstruct-examples/mapstruct-kotlin/mapstruct-examples-kotlin.iml" filepath="$PROJECT_DIR$/../../mapstruct/mapstruct-examples/mapstruct-kotlin/mapstruct-examples-kotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../mapstruct/mapstruct-examples/mapstruct-lombok/mapstruct-examples-lombok.iml" filepath="$PROJECT_DIR$/../../mapstruct/mapstruct-examples/mapstruct-lombok/mapstruct-examples-lombok.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../mapstruct/mapstruct-examples/mapstruct-metadata-with-annotations/mapstruct-examples-metadata-with-annotations.iml" filepath="$PROJECT_DIR$/../../mapstruct/mapstruct-examples/mapstruct-metadata-with-annotations/mapstruct-examples-metadata-with-annotations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../mapstruct/mapstruct-examples/mapstruct-nested-bean-mappings/mapstruct-examples-nested-bean-mappings.iml" filepath="$PROJECT_DIR$/../../mapstruct/mapstruct-examples/mapstruct-nested-bean-mappings/mapstruct-examples-nested-bean-mappings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../mapstruct/mapstruct-examples/mapstruct-quarkus/mapstruct-examples-quarkus.iml" filepath="$PROJECT_DIR$/../../mapstruct/mapstruct-examples/mapstruct-quarkus/mapstruct-examples-quarkus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../mapstruct/mapstruct-examples/mapstruct-rounding/mapstruct-examples-rounding.iml" filepath="$PROJECT_DIR$/../../mapstruct/mapstruct-examples/mapstruct-rounding/mapstruct-examples-rounding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../mapstruct/mapstruct-examples/mapstruct-updatemethods-1/mapstruct-examples-updatemethods-1.iml" filepath="$PROJECT_DIR$/../../mapstruct/mapstruct-examples/mapstruct-updatemethods-1/mapstruct-examples-updatemethods-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../mapstruct/mapstruct/integrationtest/mapstruct-integrationtest.iml" filepath="$PROJECT_DIR$/../../mapstruct/mapstruct/integrationtest/mapstruct-integrationtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../mapstruct/mapstruct/core-jdk8/mapstruct-jdk8.iml" filepath="$PROJECT_DIR$/../../mapstruct/mapstruct/core-jdk8/mapstruct-jdk8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../mapstruct/mapstruct-examples/mapstruct-jpa-child-parent/mapstruct-jpa-parent-child.iml" filepath="$PROJECT_DIR$/../../mapstruct/mapstruct-examples/mapstruct-jpa-child-parent/mapstruct-jpa-parent-child.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../mapstruct/mapstruct-examples/mapstruct-lookup-entity-with-id/mapstruct-lookup-entity-with-composed-key.iml" filepath="$PROJECT_DIR$/../../mapstruct/mapstruct-examples/mapstruct-lookup-entity-with-id/mapstruct-lookup-entity-with-composed-key.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../mapstruct/mapstruct/parent/mapstruct-parent.iml" filepath="$PROJECT_DIR$/../../mapstruct/mapstruct/parent/mapstruct-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../mapstruct/mapstruct/processor/mapstruct-processor.iml" filepath="$PROJECT_DIR$/../../mapstruct/mapstruct/processor/mapstruct-processor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../mapstruct/mapstruct-examples/mapstruct-suppress-unmapped/mapstruct-suppress-unmapped.iml" filepath="$PROJECT_DIR$/../../mapstruct/mapstruct-examples/mapstruct-suppress-unmapped/mapstruct-suppress-unmapped.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mapstruct_demo/mapstruct_demo.iml" filepath="$PROJECT_DIR$/mapstruct_demo/mapstruct_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-performance/jsr269/processor/processor.iml" filepath="$PROJECT_DIR$/java-performance/jsr269/processor/processor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-performance/jsr269/processor-annotations/processor-annotations.iml" filepath="$PROJECT_DIR$/java-performance/jsr269/processor-annotations/processor-annotations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-performance/jsr269/processor-test/processor-test.iml" filepath="$PROJECT_DIR$/java-performance/jsr269/processor-test/processor-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../mapstruct/mapstruct-examples/mapstruct-protobuf3/protobuf-parent.iml" filepath="$PROJECT_DIR$/../../mapstruct/mapstruct-examples/mapstruct-protobuf3/protobuf-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../mapstruct/mapstruct-examples/mapstruct-protobuf3/spi-impl/protobuf-spi-impl.iml" filepath="$PROJECT_DIR$/../../mapstruct/mapstruct-examples/mapstruct-protobuf3/spi-impl/protobuf-spi-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../mapstruct/mapstruct-examples/mapstruct-protobuf3/usage/protobuf-usage.iml" filepath="$PROJECT_DIR$/../../mapstruct/mapstruct-examples/mapstruct-protobuf3/usage/protobuf-usage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../mapstruct/mapstruct-examples/mapstruct-mapper-repo/repo.iml" filepath="$PROJECT_DIR$/../../mapstruct/mapstruct-examples/mapstruct-mapper-repo/repo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../mapstruct/mapstruct-examples/mapstruct-mapper-repo/example/repo-example.iml" filepath="$PROJECT_DIR$/../../mapstruct/mapstruct-examples/mapstruct-mapper-repo/example/repo-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../mapstruct/mapstruct-examples/mapstruct-mapper-repo/generator/repo-generator.iml" filepath="$PROJECT_DIR$/../../mapstruct/mapstruct-examples/mapstruct-mapper-repo/generator/repo-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-performance/root.iml" filepath="$PROJECT_DIR$/java-performance/root.iml" />
+    </modules>
+  </component>
+</project>

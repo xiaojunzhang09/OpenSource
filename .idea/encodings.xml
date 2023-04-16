@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../../mapstruct/mapstruct-examples/mapstruct-clone/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../mapstruct/mapstruct-examples/mapstruct-field-mapping/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../mapstruct/mapstruct-examples/mapstruct-iterable-to-non-iterable/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../mapstruct/mapstruct-examples/mapstruct-jpa-child-parent/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../mapstruct/mapstruct-examples/mapstruct-kotlin/src/main/kotlin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../mapstruct/mapstruct-examples/mapstruct-lombok/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../mapstruct/mapstruct-examples/mapstruct-lookup-entity-with-id/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../mapstruct/mapstruct-examples/mapstruct-mapper-repo/example/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../mapstruct/mapstruct-examples/mapstruct-mapper-repo/generator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../mapstruct/mapstruct-examples/mapstruct-mapper-repo/generator/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../mapstruct/mapstruct-examples/mapstruct-mapping-from-map/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../mapstruct/mapstruct-examples/mapstruct-mapping-with-cycles/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../mapstruct/mapstruct-examples/mapstruct-metadata-with-annotations/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../mapstruct/mapstruct-examples/mapstruct-nested-bean-mappings/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../mapstruct/mapstruct-examples/mapstruct-protobuf3/spi-impl/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../mapstruct/mapstruct-examples/mapstruct-protobuf3/spi-impl/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../mapstruct/mapstruct-examples/mapstruct-protobuf3/usage/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../mapstruct/mapstruct-examples/mapstruct-quarkus/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../mapstruct/mapstruct-examples/mapstruct-rounding/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../mapstruct/mapstruct-examples/mapstruct-spi-accessor-naming/spi-impl/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../mapstruct/mapstruct-examples/mapstruct-spi-accessor-naming/spi-impl/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../mapstruct/mapstruct-examples/mapstruct-spi-accessor-naming/usage/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../mapstruct/mapstruct-examples/mapstruct-suppress-unmapped/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../mapstruct/mapstruct-examples/mapstruct-updatemethods-1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../mapstruct/mapstruct/build-config/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../mapstruct/mapstruct/core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../mapstruct/mapstruct/processor/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../mapstruct/mapstruct/processor/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-performance/jsr269/hello-examples/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-performance/jsr269/hello-processor/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-performance/jsr269/hello-processor/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-performance/jsr269/processor-annotations/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-performance/jsr269/processor-test/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-performance/jsr269/processor/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-performance/jsr269/processor/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

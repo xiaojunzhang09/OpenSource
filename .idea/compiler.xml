@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="protobuf-spi-impl" />
+        <module name="agent" />
+        <module name="ch07" />
+        <module name="ch05" />
+        <module name="accessornaming-spi-impl" />
+        <module name="ch06" />
+        <module name="ch03" />
+        <module name="mapstruct-build-config" />
+        <module name="ch04" />
+        <module name="processor-annotations" />
+        <module name="ch01" />
+        <module name="ch02" />
+        <module name="processor-test" />
+        <module name="mapstruct-examples-quarkus" />
+        <module name="mapstruct-distribution" />
+        <module name="hello-examples" />
+        <module name="mapstruct-integrationtest" />
+        <module name="mapstruct" />
+        <module name="mapstruct-jdk8" />
+        <module name="asm" />
+      </profile>
+      <profile name="Annotation profile for mapstruct-examples-iterable-non-iterable" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processor name="org.mapstruct.ap.MappingProcessor" />
+        <module name="mapstruct-examples-iterable-non-iterable" />
+      </profile>
+      <profile name="Annotation profile for repo-example" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$PROJECT_DIR$/../../../tools/maven/repository/org/mapstruct/mapstruct-processor/1.5.4.Final/mapstruct-processor-1.5.4.Final.jar" />
+          <entry name="$PROJECT_DIR$/../../../tools/maven/repository/org/mapstruct/mapstruct/1.5.4.Final/mapstruct-1.5.4.Final.jar" />
+          <entry name="$PROJECT_DIR$/../../mapstruct/mapstruct-examples/mapstruct-mapper-repo/generator/target/classes" />
+          <entry name="$PROJECT_DIR$/../../../tools/maven/repository/org/mapstruct/mapstruct/1.5.4.Final/mapstruct-1.5.4.Final.jar" />
+          <entry name="$PROJECT_DIR$/../../../tools/maven/repository/org/freemarker/freemarker/2.3.23/freemarker-2.3.23.jar" />
+        </processorPath>
+        <module name="repo-example" />
+      </profile>
+      <profile name="Annotation profile for protobuf-usage" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$PROJECT_DIR$/../../../tools/maven/repository/org/mapstruct/mapstruct-processor/1.5.4.Final/mapstruct-processor-1.5.4.Final.jar" />
+          <entry name="$PROJECT_DIR$/../../../tools/maven/repository/org/mapstruct/mapstruct/1.5.4.Final/mapstruct-1.5.4.Final.jar" />
+          <entry name="$PROJECT_DIR$/../../mapstruct/mapstruct-examples/mapstruct-protobuf3/spi-impl/target/classes" />
+          <entry name="$PROJECT_DIR$/../../../tools/maven/repository/org/mapstruct/mapstruct-processor/1.5.4.Final/mapstruct-processor-1.5.4.Final.jar" />
+        </processorPath>
+        <module name="protobuf-usage" />
+      </profile>
+      <profile name="Annotation profile for mapstruct-examples-lombok" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$PROJECT_DIR$/../../../tools/maven/repository/org/mapstruct/mapstruct-processor/1.5.4.Final/mapstruct-processor-1.5.4.Final.jar" />
+          <entry name="$PROJECT_DIR$/../../../tools/maven/repository/org/mapstruct/mapstruct/1.5.4.Final/mapstruct-1.5.4.Final.jar" />
+          <entry name="$PROJECT_DIR$/../../../tools/maven/repository/org/projectlombok/lombok/1.18.20/lombok-1.18.20.jar" />
+          <entry name="$PROJECT_DIR$/../../../tools/maven/repository/org/projectlombok/lombok-mapstruct-binding/0.2.0/lombok-mapstruct-binding-0.2.0.jar" />
+        </processorPath>
+        <module name="mapstruct-examples-lombok" />
+      </profile>
+      <profile name="Annotation profile for MapStruct Aggregator" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$PROJECT_DIR$/../../../tools/maven/repository/org/mapstruct/tools/gem/gem-processor/1.0.0.Alpha3/gem-processor-1.0.0.Alpha3.jar" />
+          <entry name="$PROJECT_DIR$/../../../tools/maven/repository/org/mapstruct/tools/gem/gem-api/1.0.0.Alpha3/gem-api-1.0.0.Alpha3.jar" />
+        </processorPath>
+        <module name="mapstruct-processor" />
+      </profile>
+      <profile name="Annotation profile for mapstruct-examples" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$PROJECT_DIR$/../../../tools/maven/repository/org/mapstruct/mapstruct-processor/1.5.4.Final/mapstruct-processor-1.5.4.Final.jar" />
+          <entry name="$PROJECT_DIR$/../../../tools/maven/repository/org/mapstruct/mapstruct/1.5.4.Final/mapstruct-1.5.4.Final.jar" />
+          <entry name="$PROJECT_DIR$/../../mapstruct/mapstruct-examples/mapstruct-spi-accessor-naming/spi-impl/target/classes" />
+          <entry name="$PROJECT_DIR$/../../../tools/maven/repository/org/mapstruct/mapstruct-processor/1.5.4.Final/mapstruct-processor-1.5.4.Final.jar" />
+        </processorPath>
+        <module name="accessornaming-usage" />
+      </profile>
+      <profile name="Annotation profile for java-performance" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$PROJECT_DIR$/../../../tools/maven/repository/org/mapstruct/mapstruct-processor/1.5.4.Final/mapstruct-processor-1.5.4.Final.jar" />
+          <entry name="$PROJECT_DIR$/../../../tools/maven/repository/org/mapstruct/mapstruct/1.5.4.Final/mapstruct-1.5.4.Final.jar" />
+        </processorPath>
+        <module name="mapstruct-examples-metadata-with-annotations" />
+        <module name="mapstruct-examples-rounding" />
+        <module name="mapstruct-lookup-entity-with-composed-key" />
+        <module name="mapstruct_demo" />
+        <module name="mapstruct-examples-cycles-mapping" />
+        <module name="mapstruct-examples-nested-bean-mappings" />
+        <module name="mapstruct-jpa-parent-child" />
+        <module name="mapstruct-examples-from-map" />
+        <module name="mapstruct-examples-updatemethods-1" />
+        <module name="mapstruct-suppress-unmapped" />
+        <module name="mapstruct-deep-clone" />
+      </profile>
+      <profile name="Annotation profile for mapstruct-examples-field-mappings" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$PROJECT_DIR$/../../../tools/maven/repository/org/mapstruct/mapstruct-processor/1.5.4.Final/mapstruct-processor-1.5.4.Final.jar" />
+          <entry name="$PROJECT_DIR$/../../../tools/maven/repository/org/mapstruct/mapstruct/1.5.4.Final/mapstruct-1.5.4.Final.jar" />
+        </processorPath>
+        <module name="mapstruct-examples-field-mappings" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="accessornaming-parent" target="1.8" />
+      <module name="accessornaming-spi-impl" target="1.8" />
+      <module name="accessornaming-usage" target="1.8" />
+      <module name="agent" target="8" />
+      <module name="asm" target="1.8" />
+      <module name="ch01" target="8" />
+      <module name="ch02" target="8" />
+      <module name="ch03" target="8" />
+      <module name="ch04" target="8" />
+      <module name="ch05" target="1.8" />
+      <module name="ch06" target="8" />
+      <module name="ch07" target="8" />
+      <module name="ch09" target="8" />
+      <module name="hello-examples" target="1.8" />
+      <module name="hello-processor" target="1.8" />
+      <module name="jsr269" target="8" />
+      <module name="mapstruct" target="1.8" />
+      <module name="mapstruct-aggregator" target="1.5" />
+      <module name="mapstruct-build-config" target="1.8" />
+      <module name="mapstruct-deep-clone" target="1.8" />
+      <module name="mapstruct-distribution" target="1.8" />
+      <module name="mapstruct-documentation" target="1.5" />
+      <module name="mapstruct-examples" target="1.5" />
+      <module name="mapstruct-examples-cycles-mapping" target="1.8" />
+      <module name="mapstruct-examples-field-mappings" target="1.8" />
+      <module name="mapstruct-examples-from-map" target="1.8" />
+      <module name="mapstruct-examples-iterable-non-iterable" target="1.8" />
+      <module name="mapstruct-examples-kotlin" target="1.8" />
+      <module name="mapstruct-examples-lombok" target="1.8" />
+      <module name="mapstruct-examples-metadata-with-annotations" target="1.8" />
+      <module name="mapstruct-examples-nested-bean-mappings" target="1.8" />
+      <module name="mapstruct-examples-quarkus" target="1.8" />
+      <module name="mapstruct-examples-rounding" target="1.8" />
+      <module name="mapstruct-examples-updatemethods-1" target="1.8" />
+      <module name="mapstruct-integrationtest" target="1.8" />
+      <module name="mapstruct-jdk8" target="1.8" />
+      <module name="mapstruct-jpa-parent-child" target="1.8" />
+      <module name="mapstruct-lookup-entity-with-composed-key" target="1.8" />
+      <module name="mapstruct-parent" target="1.5" />
+      <module name="mapstruct-processor" target="1.8" />
+      <module name="mapstruct-suppress-unmapped" target="1.8" />
+      <module name="mapstruct_demo" target="1.8" />
+      <module name="processor" target="1.8" />
+      <module name="processor-annotations" target="1.8" />
+      <module name="processor-test" target="1.8" />
+      <module name="protobuf-parent" target="1.8" />
+      <module name="protobuf-spi-impl" target="1.8" />
+      <module name="protobuf-usage" target="1.8" />
+      <module name="repo" target="1.5" />
+      <module name="repo-example" target="1.8" />
+      <module name="repo-generator" target="1.8" />
+      <module name="root" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
