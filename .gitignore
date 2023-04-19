@@ -33,3 +33,8 @@ test-output
 
 # Bazel
 **/bazel-*
+
+../.idea/codestream.xml
+../.idea/sonarlint/
+../java-performance/.DS_Store
+/.idea/
